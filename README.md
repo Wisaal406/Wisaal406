@@ -2,7 +2,7 @@
 - 👀 I’m interested in VSLAM
 - 🌱 I’m currently learning VSLAM concepts
 - 💞️ I’m looking to collaborate on SLAM, VSLAM, Python, C++ and Overleaf.
-- 📫 How to reach me . muhammadwisal406@gmail.com
+- 📫 How to reach me . muhammadwisal@buaa.edu.cn
 
 <!---
 Wisaal406/Wisaal406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
